@@ -1,0 +1,2002 @@
+[
+    {
+        "name": "Botswana",
+        "official": "Republic of Botswana",
+        "cca2": "BW",
+        "idd_root": "+2",
+        "idd_suffixes": "67",
+        "idd_root_idd_suffixes": "+267"
+    },
+    {
+        "name": "Tonga",
+        "official": "Kingdom of Tonga",
+        "cca2": "TO",
+        "idd_root": "+6",
+        "idd_suffixes": "76",
+        "idd_root_idd_suffixes": "+676"
+    },
+    {
+        "name": "Greece",
+        "official": "Hellenic Republic",
+        "cca2": "GR",
+        "idd_root": "+3",
+        "idd_suffixes": "0",
+        "idd_root_idd_suffixes": "+30"
+    },
+    {
+        "name": "Marshall Islands",
+        "official": "Republic of the Marshall Islands",
+        "cca2": "MH",
+        "idd_root": "+6",
+        "idd_suffixes": "92",
+        "idd_root_idd_suffixes": "+692"
+    },
+    {
+        "name": "Belarus",
+        "official": "Republic of Belarus",
+        "cca2": "BY",
+        "idd_root": "+3",
+        "idd_suffixes": "75",
+        "idd_root_idd_suffixes": "+375"
+    },
+    {
+        "name": "Republic of the Congo",
+        "official": "Republic of the Congo",
+        "cca2": "CG",
+        "idd_root": "+2",
+        "idd_suffixes": "42",
+        "idd_root_idd_suffixes": "+242"
+    },
+    {
+        "name": "Tanzania",
+        "official": "United Republic of Tanzania",
+        "cca2": "TZ",
+        "idd_root": "+2",
+        "idd_suffixes": "55",
+        "idd_root_idd_suffixes": "+255"
+    },
+    {
+        "name": "Liechtenstein",
+        "official": "Principality of Liechtenstein",
+        "cca2": "LI",
+        "idd_root": "+4",
+        "idd_suffixes": "23",
+        "idd_root_idd_suffixes": "+423"
+    },
+    {
+        "name": "Sint Maarten",
+        "official": "Sint Maarten",
+        "cca2": "SX",
+        "idd_root": "+1",
+        "idd_suffixes": "721",
+        "idd_root_idd_suffixes": "+1721"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "official": "Bosnia and Herzegovina",
+        "cca2": "BA",
+        "idd_root": "+3",
+        "idd_suffixes": "87",
+        "idd_root_idd_suffixes": "+387"
+    },
+    {
+        "name": "Bahrain",
+        "official": "Kingdom of Bahrain",
+        "cca2": "BH",
+        "idd_root": "+9",
+        "idd_suffixes": "73",
+        "idd_root_idd_suffixes": "+973"
+    },
+    {
+        "name": "Kenya",
+        "official": "Republic of Kenya",
+        "cca2": "KE",
+        "idd_root": "+2",
+        "idd_suffixes": "54",
+        "idd_root_idd_suffixes": "+254"
+    },
+    {
+        "name": "Estonia",
+        "official": "Republic of Estonia",
+        "cca2": "EE",
+        "idd_root": "+3",
+        "idd_suffixes": "72",
+        "idd_root_idd_suffixes": "+372"
+    },
+    {
+        "name": "Qatar",
+        "official": "State of Qatar",
+        "cca2": "QA",
+        "idd_root": "+9",
+        "idd_suffixes": "74",
+        "idd_root_idd_suffixes": "+974"
+    },
+    {
+        "name": "Poland",
+        "official": "Republic of Poland",
+        "cca2": "PL",
+        "idd_root": "+4",
+        "idd_suffixes": "8",
+        "idd_root_idd_suffixes": "+48"
+    },
+    {
+        "name": "Moldova",
+        "official": "Republic of Moldova",
+        "cca2": "MD",
+        "idd_root": "+3",
+        "idd_suffixes": "73",
+        "idd_root_idd_suffixes": "+373"
+    },
+    {
+        "name": "Jordan",
+        "official": "Hashemite Kingdom of Jordan",
+        "cca2": "JO",
+        "idd_root": "+9",
+        "idd_suffixes": "62",
+        "idd_root_idd_suffixes": "+962"
+    },
+    {
+        "name": "Tunisia",
+        "official": "Tunisian Republic",
+        "cca2": "TN",
+        "idd_root": "+2",
+        "idd_suffixes": "16",
+        "idd_root_idd_suffixes": "+216"
+    },
+    {
+        "name": "Paraguay",
+        "official": "Republic of Paraguay",
+        "cca2": "PY",
+        "idd_root": "+5",
+        "idd_suffixes": "95",
+        "idd_root_idd_suffixes": "+595"
+    },
+    {
+        "name": "Malaysia",
+        "official": "Malaysia",
+        "cca2": "MY",
+        "idd_root": "+6",
+        "idd_suffixes": "0",
+        "idd_root_idd_suffixes": "+60"
+    },
+    {
+        "name": "Cameroon",
+        "official": "Republic of Cameroon",
+        "cca2": "CM",
+        "idd_root": "+2",
+        "idd_suffixes": "37",
+        "idd_root_idd_suffixes": "+237"
+    },
+    {
+        "name": "Solomon Islands",
+        "official": "Solomon Islands",
+        "cca2": "SB",
+        "idd_root": "+6",
+        "idd_suffixes": "77",
+        "idd_root_idd_suffixes": "+677"
+    },
+    {
+        "name": "Mongolia",
+        "official": "Mongolia",
+        "cca2": "MN",
+        "idd_root": "+9",
+        "idd_suffixes": "76",
+        "idd_root_idd_suffixes": "+976"
+    },
+    {
+        "name": "Vanuatu",
+        "official": "Republic of Vanuatu",
+        "cca2": "VU",
+        "idd_root": "+6",
+        "idd_suffixes": "78",
+        "idd_root_idd_suffixes": "+678"
+    },
+    {
+        "name": "Nepal",
+        "official": "Federal Democratic Republic of Nepal",
+        "cca2": "NP",
+        "idd_root": "+9",
+        "idd_suffixes": "77",
+        "idd_root_idd_suffixes": "+977"
+    },
+    {
+        "name": "Guam",
+        "official": "Guam",
+        "cca2": "GU",
+        "idd_root": "+1",
+        "idd_suffixes": "671",
+        "idd_root_idd_suffixes": "+1671"
+    },
+    {
+        "name": "Lebanon",
+        "official": "Lebanese Republic",
+        "cca2": "LB",
+        "idd_root": "+9",
+        "idd_suffixes": "61",
+        "idd_root_idd_suffixes": "+961"
+    },
+    {
+        "name": "Ivory Coast",
+        "official": "Republic of Côte d'Ivoire",
+        "cca2": "CI",
+        "idd_root": "+2",
+        "idd_suffixes": "25",
+        "idd_root_idd_suffixes": "+225"
+    },
+    {
+        "name": "Ecuador",
+        "official": "Republic of Ecuador",
+        "cca2": "EC",
+        "idd_root": "+5",
+        "idd_suffixes": "93",
+        "idd_root_idd_suffixes": "+593"
+    },
+    {
+        "name": "Palau",
+        "official": "Republic of Palau",
+        "cca2": "PW",
+        "idd_root": "+6",
+        "idd_suffixes": "80",
+        "idd_root_idd_suffixes": "+680"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "official": "Kyrgyz Republic",
+        "cca2": "KG",
+        "idd_root": "+9",
+        "idd_suffixes": "96",
+        "idd_root_idd_suffixes": "+996"
+    },
+    {
+        "name": "Egypt",
+        "official": "Arab Republic of Egypt",
+        "cca2": "EG",
+        "idd_root": "+2",
+        "idd_suffixes": "0",
+        "idd_root_idd_suffixes": "+20"
+    },
+    {
+        "name": "North Korea",
+        "official": "Democratic People's Republic of Korea",
+        "cca2": "KP",
+        "idd_root": "+8",
+        "idd_suffixes": "50",
+        "idd_root_idd_suffixes": "+850"
+    },
+    {
+        "name": "Senegal",
+        "official": "Republic of Senegal",
+        "cca2": "SN",
+        "idd_root": "+2",
+        "idd_suffixes": "21",
+        "idd_root_idd_suffixes": "+221"
+    },
+    {
+        "name": "British Virgin Islands",
+        "official": "Virgin Islands",
+        "cca2": "VG",
+        "idd_root": "+1",
+        "idd_suffixes": "284",
+        "idd_root_idd_suffixes": "+1284"
+    },
+    {
+        "name": "Costa Rica",
+        "official": "Republic of Costa Rica",
+        "cca2": "CR",
+        "idd_root": "+5",
+        "idd_suffixes": "06",
+        "idd_root_idd_suffixes": "+506"
+    },
+    {
+        "name": "Guatemala",
+        "official": "Republic of Guatemala",
+        "cca2": "GT",
+        "idd_root": "+5",
+        "idd_suffixes": "02",
+        "idd_root_idd_suffixes": "+502"
+    },
+    {
+        "name": "China",
+        "official": "People's Republic of China",
+        "cca2": "CN",
+        "idd_root": "+8",
+        "idd_suffixes": "6",
+        "idd_root_idd_suffixes": "+86"
+    },
+    {
+        "name": "Kazakhstan",
+        "official": "Republic of Kazakhstan",
+        "cca2": "KZ",
+        "idd_root": "+7",
+        "idd_suffixes": "6",
+        "idd_root_idd_suffixes": "+767"
+    },
+    {
+        "name": "Cape Verde",
+        "official": "Republic of Cabo Verde",
+        "cca2": "CV",
+        "idd_root": "+2",
+        "idd_suffixes": "38",
+        "idd_root_idd_suffixes": "+238"
+    },
+    {
+        "name": "Vatican City",
+        "official": "Vatican City State",
+        "cca2": "VA",
+        "idd_root": "+3",
+        "idd_suffixes": "906698",
+        "idd_root_idd_suffixes": "+390669879"
+    },
+    {
+        "name": "Bhutan",
+        "official": "Kingdom of Bhutan",
+        "cca2": "BT",
+        "idd_root": "+9",
+        "idd_suffixes": "75",
+        "idd_root_idd_suffixes": "+975"
+    },
+    {
+        "name": "Colombia",
+        "official": "Republic of Colombia",
+        "cca2": "CO",
+        "idd_root": "+5",
+        "idd_suffixes": "7",
+        "idd_root_idd_suffixes": "+57"
+    },
+    {
+        "name": "Grenada",
+        "official": "Grenada",
+        "cca2": "GD",
+        "idd_root": "+1",
+        "idd_suffixes": "473",
+        "idd_root_idd_suffixes": "+1473"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "official": "Commonwealth of the Northern Mariana Islands",
+        "cca2": "MP",
+        "idd_root": "+1",
+        "idd_suffixes": "670",
+        "idd_root_idd_suffixes": "+1670"
+    },
+    {
+        "name": "Papua New Guinea",
+        "official": "Independent State of Papua New Guinea",
+        "cca2": "PG",
+        "idd_root": "+6",
+        "idd_suffixes": "75",
+        "idd_root_idd_suffixes": "+675"
+    },
+    {
+        "name": "Antarctica",
+        "official": "Antarctica",
+        "cca2": "AQ",
+        "idd_root": "",
+        "idd_suffixes": null,
+        "idd_root_idd_suffixes": ""
+    },
+    {
+        "name": "South Africa",
+        "official": "Republic of South Africa",
+        "cca2": "ZA",
+        "idd_root": "+2",
+        "idd_suffixes": "7",
+        "idd_root_idd_suffixes": "+27"
+    },
+    {
+        "name": "Guinea",
+        "official": "Republic of Guinea",
+        "cca2": "GN",
+        "idd_root": "+2",
+        "idd_suffixes": "24",
+        "idd_root_idd_suffixes": "+224"
+    },
+    {
+        "name": "Hong Kong",
+        "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "cca2": "HK",
+        "idd_root": "+8",
+        "idd_suffixes": "52",
+        "idd_root_idd_suffixes": "+852"
+    },
+    {
+        "name": "Chad",
+        "official": "Republic of Chad",
+        "cca2": "TD",
+        "idd_root": "+2",
+        "idd_suffixes": "35",
+        "idd_root_idd_suffixes": "+235"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "official": "Saint Helena, Ascension and Tristan da Cunha",
+        "cca2": "SH",
+        "idd_root": "+2",
+        "idd_suffixes": "90",
+        "idd_root_idd_suffixes": "+29047"
+    },
+    {
+        "name": "Honduras",
+        "official": "Republic of Honduras",
+        "cca2": "HN",
+        "idd_root": "+5",
+        "idd_suffixes": "04",
+        "idd_root_idd_suffixes": "+504"
+    },
+    {
+        "name": "Montenegro",
+        "official": "Montenegro",
+        "cca2": "ME",
+        "idd_root": "+3",
+        "idd_suffixes": "82",
+        "idd_root_idd_suffixes": "+382"
+    },
+    {
+        "name": "Morocco",
+        "official": "Kingdom of Morocco",
+        "cca2": "MA",
+        "idd_root": "+2",
+        "idd_suffixes": "12",
+        "idd_root_idd_suffixes": "+212"
+    },
+    {
+        "name": "Nicaragua",
+        "official": "Republic of Nicaragua",
+        "cca2": "NI",
+        "idd_root": "+5",
+        "idd_suffixes": "05",
+        "idd_root_idd_suffixes": "+505"
+    },
+    {
+        "name": "Cayman Islands",
+        "official": "Cayman Islands",
+        "cca2": "KY",
+        "idd_root": "+1",
+        "idd_suffixes": "345",
+        "idd_root_idd_suffixes": "+1345"
+    },
+    {
+        "name": "Luxembourg",
+        "official": "Grand Duchy of Luxembourg",
+        "cca2": "LU",
+        "idd_root": "+3",
+        "idd_suffixes": "52",
+        "idd_root_idd_suffixes": "+352"
+    },
+    {
+        "name": "Guyana",
+        "official": "Co-operative Republic of Guyana",
+        "cca2": "GY",
+        "idd_root": "+5",
+        "idd_suffixes": "92",
+        "idd_root_idd_suffixes": "+592"
+    },
+    {
+        "name": "Bulgaria",
+        "official": "Republic of Bulgaria",
+        "cca2": "BG",
+        "idd_root": "+3",
+        "idd_suffixes": "59",
+        "idd_root_idd_suffixes": "+359"
+    },
+    {
+        "name": "Ghana",
+        "official": "Republic of Ghana",
+        "cca2": "GH",
+        "idd_root": "+2",
+        "idd_suffixes": "33",
+        "idd_root_idd_suffixes": "+233"
+    },
+    {
+        "name": "Finland",
+        "official": "Republic of Finland",
+        "cca2": "FI",
+        "idd_root": "+3",
+        "idd_suffixes": "58",
+        "idd_root_idd_suffixes": "+358"
+    },
+    {
+        "name": "Seychelles",
+        "official": "Republic of Seychelles",
+        "cca2": "SC",
+        "idd_root": "+2",
+        "idd_suffixes": "48",
+        "idd_root_idd_suffixes": "+248"
+    },
+    {
+        "name": "United States Virgin Islands",
+        "official": "Virgin Islands of the United States",
+        "cca2": "VI",
+        "idd_root": "+1",
+        "idd_suffixes": "340",
+        "idd_root_idd_suffixes": "+1340"
+    },
+    {
+        "name": "Ethiopia",
+        "official": "Federal Democratic Republic of Ethiopia",
+        "cca2": "ET",
+        "idd_root": "+2",
+        "idd_suffixes": "51",
+        "idd_root_idd_suffixes": "+251"
+    },
+    {
+        "name": "Mauritania",
+        "official": "Islamic Republic of Mauritania",
+        "cca2": "MR",
+        "idd_root": "+2",
+        "idd_suffixes": "22",
+        "idd_root_idd_suffixes": "+222"
+    },
+    {
+        "name": "Iceland",
+        "official": "Iceland",
+        "cca2": "IS",
+        "idd_root": "+3",
+        "idd_suffixes": "54",
+        "idd_root_idd_suffixes": "+354"
+    },
+    {
+        "name": "Réunion",
+        "official": "Réunion Island",
+        "cca2": "RE",
+        "idd_root": "+2",
+        "idd_suffixes": "62",
+        "idd_root_idd_suffixes": "+262"
+    },
+    {
+        "name": "Tajikistan",
+        "official": "Republic of Tajikistan",
+        "cca2": "TJ",
+        "idd_root": "+9",
+        "idd_suffixes": "92",
+        "idd_root_idd_suffixes": "+992"
+    },
+    {
+        "name": "Cuba",
+        "official": "Republic of Cuba",
+        "cca2": "CU",
+        "idd_root": "+5",
+        "idd_suffixes": "3",
+        "idd_root_idd_suffixes": "+53"
+    },
+    {
+        "name": "Somalia",
+        "official": "Federal Republic of Somalia",
+        "cca2": "SO",
+        "idd_root": "+2",
+        "idd_suffixes": "52",
+        "idd_root_idd_suffixes": "+252"
+    },
+    {
+        "name": "Switzerland",
+        "official": "Swiss Confederation",
+        "cca2": "CH",
+        "idd_root": "+4",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+41"
+    },
+    {
+        "name": "Christmas Island",
+        "official": "Territory of Christmas Island",
+        "cca2": "CX",
+        "idd_root": "+6",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+61"
+    },
+    {
+        "name": "Martinique",
+        "official": "Martinique",
+        "cca2": "MQ",
+        "idd_root": "+5",
+        "idd_suffixes": "96",
+        "idd_root_idd_suffixes": "+596"
+    },
+    {
+        "name": "Australia",
+        "official": "Commonwealth of Australia",
+        "cca2": "AU",
+        "idd_root": "+6",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+61"
+    },
+    {
+        "name": "Benin",
+        "official": "Republic of Benin",
+        "cca2": "BJ",
+        "idd_root": "+2",
+        "idd_suffixes": "29",
+        "idd_root_idd_suffixes": "+229"
+    },
+    {
+        "name": "Laos",
+        "official": "Lao People's Democratic Republic",
+        "cca2": "LA",
+        "idd_root": "+8",
+        "idd_suffixes": "56",
+        "idd_root_idd_suffixes": "+856"
+    },
+    {
+        "name": "Sudan",
+        "official": "Republic of the Sudan",
+        "cca2": "SD",
+        "idd_root": "+2",
+        "idd_suffixes": "49",
+        "idd_root_idd_suffixes": "+249"
+    },
+    {
+        "name": "Libya",
+        "official": "State of Libya",
+        "cca2": "LY",
+        "idd_root": "+2",
+        "idd_suffixes": "18",
+        "idd_root_idd_suffixes": "+218"
+    },
+    {
+        "name": "Mali",
+        "official": "Republic of Mali",
+        "cca2": "ML",
+        "idd_root": "+2",
+        "idd_suffixes": "23",
+        "idd_root_idd_suffixes": "+223"
+    },
+    {
+        "name": "Peru",
+        "official": "Republic of Peru",
+        "cca2": "PE",
+        "idd_root": "+5",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+51"
+    },
+    {
+        "name": "Hungary",
+        "official": "Hungary",
+        "cca2": "HU",
+        "idd_root": "+3",
+        "idd_suffixes": "6",
+        "idd_root_idd_suffixes": "+36"
+    },
+    {
+        "name": "Bermuda",
+        "official": "Bermuda",
+        "cca2": "BM",
+        "idd_root": "+1",
+        "idd_suffixes": "441",
+        "idd_root_idd_suffixes": "+1441"
+    },
+    {
+        "name": "Fiji",
+        "official": "Republic of Fiji",
+        "cca2": "FJ",
+        "idd_root": "+6",
+        "idd_suffixes": "79",
+        "idd_root_idd_suffixes": "+679"
+    },
+    {
+        "name": "Netherlands",
+        "official": "Kingdom of the Netherlands",
+        "cca2": "NL",
+        "idd_root": "+3",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+31"
+    },
+    {
+        "name": "Nigeria",
+        "official": "Federal Republic of Nigeria",
+        "cca2": "NG",
+        "idd_root": "+2",
+        "idd_suffixes": "34",
+        "idd_root_idd_suffixes": "+234"
+    },
+    {
+        "name": "Portugal",
+        "official": "Portuguese Republic",
+        "cca2": "PT",
+        "idd_root": "+3",
+        "idd_suffixes": "51",
+        "idd_root_idd_suffixes": "+351"
+    },
+    {
+        "name": "India",
+        "official": "Republic of India",
+        "cca2": "IN",
+        "idd_root": "+9",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+91"
+    },
+    {
+        "name": "South Georgia",
+        "official": "South Georgia and the South Sandwich Islands",
+        "cca2": "GS",
+        "idd_root": "+5",
+        "idd_suffixes": "00",
+        "idd_root_idd_suffixes": "+500"
+    },
+    {
+        "name": "Lesotho",
+        "official": "Kingdom of Lesotho",
+        "cca2": "LS",
+        "idd_root": "+2",
+        "idd_suffixes": "66",
+        "idd_root_idd_suffixes": "+266"
+    },
+    {
+        "name": "Zambia",
+        "official": "Republic of Zambia",
+        "cca2": "ZM",
+        "idd_root": "+2",
+        "idd_suffixes": "60",
+        "idd_root_idd_suffixes": "+260"
+    },
+    {
+        "name": "Tokelau",
+        "official": "Tokelau",
+        "cca2": "TK",
+        "idd_root": "+6",
+        "idd_suffixes": "90",
+        "idd_root_idd_suffixes": "+690"
+    },
+    {
+        "name": "Gambia",
+        "official": "Republic of the Gambia",
+        "cca2": "GM",
+        "idd_root": "+2",
+        "idd_suffixes": "20",
+        "idd_root_idd_suffixes": "+220"
+    },
+    {
+        "name": "Sierra Leone",
+        "official": "Republic of Sierra Leone",
+        "cca2": "SL",
+        "idd_root": "+2",
+        "idd_suffixes": "32",
+        "idd_root_idd_suffixes": "+232"
+    },
+    {
+        "name": "Kiribati",
+        "official": "Independent and Sovereign Republic of Kiribati",
+        "cca2": "KI",
+        "idd_root": "+6",
+        "idd_suffixes": "86",
+        "idd_root_idd_suffixes": "+686"
+    },
+    {
+        "name": "Norway",
+        "official": "Kingdom of Norway",
+        "cca2": "NO",
+        "idd_root": "+4",
+        "idd_suffixes": "7",
+        "idd_root_idd_suffixes": "+47"
+    },
+    {
+        "name": "Ireland",
+        "official": "Republic of Ireland",
+        "cca2": "IE",
+        "idd_root": "+3",
+        "idd_suffixes": "53",
+        "idd_root_idd_suffixes": "+353"
+    },
+    {
+        "name": "Greenland",
+        "official": "Greenland",
+        "cca2": "GL",
+        "idd_root": "+2",
+        "idd_suffixes": "99",
+        "idd_root_idd_suffixes": "+299"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "official": "British Indian Ocean Territory",
+        "cca2": "IO",
+        "idd_root": "+2",
+        "idd_suffixes": "46",
+        "idd_root_idd_suffixes": "+246"
+    },
+    {
+        "name": "Mozambique",
+        "official": "Republic of Mozambique",
+        "cca2": "MZ",
+        "idd_root": "+2",
+        "idd_suffixes": "58",
+        "idd_root_idd_suffixes": "+258"
+    },
+    {
+        "name": "Panama",
+        "official": "Republic of Panama",
+        "cca2": "PA",
+        "idd_root": "+5",
+        "idd_suffixes": "07",
+        "idd_root_idd_suffixes": "+507"
+    },
+    {
+        "name": "Ukraine",
+        "official": "Ukraine",
+        "cca2": "UA",
+        "idd_root": "+3",
+        "idd_suffixes": "80",
+        "idd_root_idd_suffixes": "+380"
+    },
+    {
+        "name": "Uruguay",
+        "official": "Oriental Republic of Uruguay",
+        "cca2": "UY",
+        "idd_root": "+5",
+        "idd_suffixes": "98",
+        "idd_root_idd_suffixes": "+598"
+    },
+    {
+        "name": "Aruba",
+        "official": "Aruba",
+        "cca2": "AW",
+        "idd_root": "+2",
+        "idd_suffixes": "97",
+        "idd_root_idd_suffixes": "+297"
+    },
+    {
+        "name": "Iran",
+        "official": "Islamic Republic of Iran",
+        "cca2": "IR",
+        "idd_root": "+9",
+        "idd_suffixes": "8",
+        "idd_root_idd_suffixes": "+98"
+    },
+    {
+        "name": "Isle of Man",
+        "official": "Isle of Man",
+        "cca2": "IM",
+        "idd_root": "+4",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+44"
+    },
+    {
+        "name": "Åland Islands",
+        "official": "Åland Islands",
+        "cca2": "AX",
+        "idd_root": "+3",
+        "idd_suffixes": "5818",
+        "idd_root_idd_suffixes": "+35818"
+    },
+    {
+        "name": "Saudi Arabia",
+        "official": "Kingdom of Saudi Arabia",
+        "cca2": "SA",
+        "idd_root": "+9",
+        "idd_suffixes": "66",
+        "idd_root_idd_suffixes": "+966"
+    },
+    {
+        "name": "Djibouti",
+        "official": "Republic of Djibouti",
+        "cca2": "DJ",
+        "idd_root": "+2",
+        "idd_suffixes": "53",
+        "idd_root_idd_suffixes": "+253"
+    },
+    {
+        "name": "Italy",
+        "official": "Italian Republic",
+        "cca2": "IT",
+        "idd_root": "+3",
+        "idd_suffixes": "9",
+        "idd_root_idd_suffixes": "+39"
+    },
+    {
+        "name": "Canada",
+        "official": "Canada",
+        "cca2": "CA",
+        "idd_root": "+1",
+        "idd_suffixes": "",
+        "idd_root_idd_suffixes": "+1"
+    },
+    {
+        "name": "Jamaica",
+        "official": "Jamaica",
+        "cca2": "JM",
+        "idd_root": "+1",
+        "idd_suffixes": "876",
+        "idd_root_idd_suffixes": "+1876658"
+    },
+    {
+        "name": "Niger",
+        "official": "Republic of Niger",
+        "cca2": "NE",
+        "idd_root": "+2",
+        "idd_suffixes": "27",
+        "idd_root_idd_suffixes": "+227"
+    },
+    {
+        "name": "Afghanistan",
+        "official": "Islamic Republic of Afghanistan",
+        "cca2": "AF",
+        "idd_root": "+9",
+        "idd_suffixes": "3",
+        "idd_root_idd_suffixes": "+93"
+    },
+    {
+        "name": "Croatia",
+        "official": "Republic of Croatia",
+        "cca2": "HR",
+        "idd_root": "+3",
+        "idd_suffixes": "85",
+        "idd_root_idd_suffixes": "+385"
+    },
+    {
+        "name": "Latvia",
+        "official": "Republic of Latvia",
+        "cca2": "LV",
+        "idd_root": "+3",
+        "idd_suffixes": "71",
+        "idd_root_idd_suffixes": "+371"
+    },
+    {
+        "name": "Samoa",
+        "official": "Independent State of Samoa",
+        "cca2": "WS",
+        "idd_root": "+6",
+        "idd_suffixes": "85",
+        "idd_root_idd_suffixes": "+685"
+    },
+    {
+        "name": "Curaçao",
+        "official": "Country of Curaçao",
+        "cca2": "CW",
+        "idd_root": "+5",
+        "idd_suffixes": "99",
+        "idd_root_idd_suffixes": "+599"
+    },
+    {
+        "name": "Cyprus",
+        "official": "Republic of Cyprus",
+        "cca2": "CY",
+        "idd_root": "+3",
+        "idd_suffixes": "57",
+        "idd_root_idd_suffixes": "+357"
+    },
+    {
+        "name": "Madagascar",
+        "official": "Republic of Madagascar",
+        "cca2": "MG",
+        "idd_root": "+2",
+        "idd_suffixes": "61",
+        "idd_root_idd_suffixes": "+261"
+    },
+    {
+        "name": "Uzbekistan",
+        "official": "Republic of Uzbekistan",
+        "cca2": "UZ",
+        "idd_root": "+9",
+        "idd_suffixes": "98",
+        "idd_root_idd_suffixes": "+998"
+    },
+    {
+        "name": "Macau",
+        "official": "Macao Special Administrative Region of the People's Republic of China",
+        "cca2": "MO",
+        "idd_root": "+8",
+        "idd_suffixes": "53",
+        "idd_root_idd_suffixes": "+853"
+    },
+    {
+        "name": "Micronesia",
+        "official": "Federated States of Micronesia",
+        "cca2": "FM",
+        "idd_root": "+6",
+        "idd_suffixes": "91",
+        "idd_root_idd_suffixes": "+691"
+    },
+    {
+        "name": "Maldives",
+        "official": "Republic of the Maldives",
+        "cca2": "MV",
+        "idd_root": "+9",
+        "idd_suffixes": "60",
+        "idd_root_idd_suffixes": "+960"
+    },
+    {
+        "name": "Slovenia",
+        "official": "Republic of Slovenia",
+        "cca2": "SI",
+        "idd_root": "+3",
+        "idd_suffixes": "86",
+        "idd_root_idd_suffixes": "+386"
+    },
+    {
+        "name": "Andorra",
+        "official": "Principality of Andorra",
+        "cca2": "AD",
+        "idd_root": "+3",
+        "idd_suffixes": "76",
+        "idd_root_idd_suffixes": "+376"
+    },
+    {
+        "name": "Eritrea",
+        "official": "State of Eritrea",
+        "cca2": "ER",
+        "idd_root": "+2",
+        "idd_suffixes": "91",
+        "idd_root_idd_suffixes": "+291"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "official": "Republic of Guinea-Bissau",
+        "cca2": "GW",
+        "idd_root": "+2",
+        "idd_suffixes": "45",
+        "idd_root_idd_suffixes": "+245"
+    },
+    {
+        "name": "Kuwait",
+        "official": "State of Kuwait",
+        "cca2": "KW",
+        "idd_root": "+9",
+        "idd_suffixes": "65",
+        "idd_root_idd_suffixes": "+965"
+    },
+    {
+        "name": "Gabon",
+        "official": "Gabonese Republic",
+        "cca2": "GA",
+        "idd_root": "+2",
+        "idd_suffixes": "41",
+        "idd_root_idd_suffixes": "+241"
+    },
+    {
+        "name": "Yemen",
+        "official": "Republic of Yemen",
+        "cca2": "YE",
+        "idd_root": "+9",
+        "idd_suffixes": "67",
+        "idd_root_idd_suffixes": "+967"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "official": "Territory of the Cocos (Keeling) Islands",
+        "cca2": "CC",
+        "idd_root": "+6",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+61"
+    },
+    {
+        "name": "Timor-Leste",
+        "official": "Democratic Republic of Timor-Leste",
+        "cca2": "TL",
+        "idd_root": "+6",
+        "idd_suffixes": "70",
+        "idd_root_idd_suffixes": "+670"
+    },
+    {
+        "name": "Slovakia",
+        "official": "Slovak Republic",
+        "cca2": "SK",
+        "idd_root": "+4",
+        "idd_suffixes": "21",
+        "idd_root_idd_suffixes": "+421"
+    },
+    {
+        "name": "Rwanda",
+        "official": "Republic of Rwanda",
+        "cca2": "RW",
+        "idd_root": "+2",
+        "idd_suffixes": "50",
+        "idd_root_idd_suffixes": "+250"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "official": "Antigua and Barbuda",
+        "cca2": "AG",
+        "idd_root": "+1",
+        "idd_suffixes": "268",
+        "idd_root_idd_suffixes": "+1268"
+    },
+    {
+        "name": "Togo",
+        "official": "Togolese Republic",
+        "cca2": "TG",
+        "idd_root": "+2",
+        "idd_suffixes": "28",
+        "idd_root_idd_suffixes": "+228"
+    },
+    {
+        "name": "Syria",
+        "official": "Syrian Arab Republic",
+        "cca2": "SY",
+        "idd_root": "+9",
+        "idd_suffixes": "63",
+        "idd_root_idd_suffixes": "+963"
+    },
+    {
+        "name": "Guadeloupe",
+        "official": "Guadeloupe",
+        "cca2": "GP",
+        "idd_root": "+5",
+        "idd_suffixes": "90",
+        "idd_root_idd_suffixes": "+590"
+    },
+    {
+        "name": "Turkmenistan",
+        "official": "Turkmenistan",
+        "cca2": "TM",
+        "idd_root": "+9",
+        "idd_suffixes": "93",
+        "idd_root_idd_suffixes": "+993"
+    },
+    {
+        "name": "Sri Lanka",
+        "official": "Democratic Socialist Republic of Sri Lanka",
+        "cca2": "LK",
+        "idd_root": "+9",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+94"
+    },
+    {
+        "name": "United States",
+        "official": "United States of America",
+        "cca2": "US",
+        "idd_root": "+1",
+        "idd_suffixes": "201",
+        "idd_root_idd_suffixes": "+1201202203205206207208209210212213214215216217218219220224225227228229231234239240248251252253254256260262267269270272274276281283301302303304305307308309310312313314315316317318319320321323325327330331334336337339346347351352360361364380385386401402404405406407408409410412413414415417419423424425430432434435440442443447458463464469470475478479480484501502503504505507508509510512513515516517518520530531534539540541551559561562563564567570571573574575580585586601602603605606607608609610612614615616617618619620623626628629630631636641646650651657660661662667669678681682701702703704706707708712713714715716717718719720724725727730731732734737740743747754757760762763765769770772773774775779781785786801802803804805806808810812813814815816817818828830831832843845847848850854856857858859860862863864865870872878901903904906907908909910912913914915916917918919920925928929930931934936937938940941947949951952954956959970971972973975978979980984985989"
+    },
+    {
+        "name": "Argentina",
+        "official": "Argentine Republic",
+        "cca2": "AR",
+        "idd_root": "+5",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+54"
+    },
+    {
+        "name": "South Sudan",
+        "official": "Republic of South Sudan",
+        "cca2": "SS",
+        "idd_root": "+2",
+        "idd_suffixes": "11",
+        "idd_root_idd_suffixes": "+211"
+    },
+    {
+        "name": "Palestine",
+        "official": "State of Palestine",
+        "cca2": "PS",
+        "idd_root": "+9",
+        "idd_suffixes": "70",
+        "idd_root_idd_suffixes": "+970"
+    },
+    {
+        "name": "Georgia",
+        "official": "Georgia",
+        "cca2": "GE",
+        "idd_root": "+9",
+        "idd_suffixes": "95",
+        "idd_root_idd_suffixes": "+995"
+    },
+    {
+        "name": "Japan",
+        "official": "Japan",
+        "cca2": "JP",
+        "idd_root": "+8",
+        "idd_suffixes": "1",
+        "idd_root_idd_suffixes": "+81"
+    },
+    {
+        "name": "Sweden",
+        "official": "Kingdom of Sweden",
+        "cca2": "SE",
+        "idd_root": "+4",
+        "idd_suffixes": "6",
+        "idd_root_idd_suffixes": "+46"
+    },
+    {
+        "name": "Chile",
+        "official": "Republic of Chile",
+        "cca2": "CL",
+        "idd_root": "+5",
+        "idd_suffixes": "6",
+        "idd_root_idd_suffixes": "+56"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "official": "Federation of Saint Christopher and Nevis",
+        "cca2": "KN",
+        "idd_root": "+1",
+        "idd_suffixes": "869",
+        "idd_root_idd_suffixes": "+1869"
+    },
+    {
+        "name": "Denmark",
+        "official": "Kingdom of Denmark",
+        "cca2": "DK",
+        "idd_root": "+4",
+        "idd_suffixes": "5",
+        "idd_root_idd_suffixes": "+45"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "official": "United States Minor Outlying Islands",
+        "cca2": "UM",
+        "idd_root": "+2",
+        "idd_suffixes": "68",
+        "idd_root_idd_suffixes": "+268"
+    },
+    {
+        "name": "American Samoa",
+        "official": "American Samoa",
+        "cca2": "AS",
+        "idd_root": "+1",
+        "idd_suffixes": "684",
+        "idd_root_idd_suffixes": "+1684"
+    },
+    {
+        "name": "Anguilla",
+        "official": "Anguilla",
+        "cca2": "AI",
+        "idd_root": "+1",
+        "idd_suffixes": "264",
+        "idd_root_idd_suffixes": "+1264"
+    },
+    {
+        "name": "Philippines",
+        "official": "Republic of the Philippines",
+        "cca2": "PH",
+        "idd_root": "+6",
+        "idd_suffixes": "3",
+        "idd_root_idd_suffixes": "+63"
+    },
+    {
+        "name": "Bolivia",
+        "official": "Plurinational State of Bolivia",
+        "cca2": "BO",
+        "idd_root": "+5",
+        "idd_suffixes": "91",
+        "idd_root_idd_suffixes": "+591"
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "official": "Democratic Republic of São Tomé and Príncipe",
+        "cca2": "ST",
+        "idd_root": "+2",
+        "idd_suffixes": "39",
+        "idd_root_idd_suffixes": "+239"
+    },
+    {
+        "name": "Montserrat",
+        "official": "Montserrat",
+        "cca2": "MS",
+        "idd_root": "+1",
+        "idd_suffixes": "664",
+        "idd_root_idd_suffixes": "+1664"
+    },
+    {
+        "name": "Myanmar",
+        "official": "Republic of the Union of Myanmar",
+        "cca2": "MM",
+        "idd_root": "+9",
+        "idd_suffixes": "5",
+        "idd_root_idd_suffixes": "+95"
+    },
+    {
+        "name": "Niue",
+        "official": "Niue",
+        "cca2": "NU",
+        "idd_root": "+6",
+        "idd_suffixes": "83",
+        "idd_root_idd_suffixes": "+683"
+    },
+    {
+        "name": "Israel",
+        "official": "State of Israel",
+        "cca2": "IL",
+        "idd_root": "+9",
+        "idd_suffixes": "72",
+        "idd_root_idd_suffixes": "+972"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "official": "Heard Island and McDonald Islands",
+        "cca2": "HM",
+        "idd_root": "",
+        "idd_suffixes": null,
+        "idd_root_idd_suffixes": ""
+    },
+    {
+        "name": "Comoros",
+        "official": "Union of the Comoros",
+        "cca2": "KM",
+        "idd_root": "+2",
+        "idd_suffixes": "69",
+        "idd_root_idd_suffixes": "+269"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "official": "Saint Vincent and the Grenadines",
+        "cca2": "VC",
+        "idd_root": "+1",
+        "idd_suffixes": "784",
+        "idd_root_idd_suffixes": "+1784"
+    },
+    {
+        "name": "Vietnam",
+        "official": "Socialist Republic of Vietnam",
+        "cca2": "VN",
+        "idd_root": "+8",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+84"
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "official": "Bonaire, Sint Eustatius and Saba",
+        "cca2": "BQ",
+        "idd_root": "+5",
+        "idd_suffixes": "99",
+        "idd_root_idd_suffixes": "+599"
+    },
+    {
+        "name": "Jersey",
+        "official": "Bailiwick of Jersey",
+        "cca2": "JE",
+        "idd_root": "+4",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+44"
+    },
+    {
+        "name": "Falkland Islands",
+        "official": "Falkland Islands",
+        "cca2": "FK",
+        "idd_root": "+5",
+        "idd_suffixes": "00",
+        "idd_root_idd_suffixes": "+500"
+    },
+    {
+        "name": "Armenia",
+        "official": "Republic of Armenia",
+        "cca2": "AM",
+        "idd_root": "+3",
+        "idd_suffixes": "74",
+        "idd_root_idd_suffixes": "+374"
+    },
+    {
+        "name": "Kosovo",
+        "official": "Republic of Kosovo",
+        "cca2": "XK",
+        "idd_root": "+3",
+        "idd_suffixes": "83",
+        "idd_root_idd_suffixes": "+383"
+    },
+    {
+        "name": "Bouvet Island",
+        "official": "Bouvet Island",
+        "cca2": "BV",
+        "idd_root": "+4",
+        "idd_suffixes": "7",
+        "idd_root_idd_suffixes": "+47"
+    },
+    {
+        "name": "Venezuela",
+        "official": "Bolivarian Republic of Venezuela",
+        "cca2": "VE",
+        "idd_root": "+5",
+        "idd_suffixes": "8",
+        "idd_root_idd_suffixes": "+58"
+    },
+    {
+        "name": "Belgium",
+        "official": "Kingdom of Belgium",
+        "cca2": "BE",
+        "idd_root": "+3",
+        "idd_suffixes": "2",
+        "idd_root_idd_suffixes": "+32"
+    },
+    {
+        "name": "Burkina Faso",
+        "official": "Burkina Faso",
+        "cca2": "BF",
+        "idd_root": "+2",
+        "idd_suffixes": "26",
+        "idd_root_idd_suffixes": "+226"
+    },
+    {
+        "name": "Algeria",
+        "official": "People's Democratic Republic of Algeria",
+        "cca2": "DZ",
+        "idd_root": "+2",
+        "idd_suffixes": "13",
+        "idd_root_idd_suffixes": "+213"
+    },
+    {
+        "name": "France",
+        "official": "French Republic",
+        "cca2": "FR",
+        "idd_root": "+3",
+        "idd_suffixes": "3",
+        "idd_root_idd_suffixes": "+33"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "official": "Saint Pierre and Miquelon",
+        "cca2": "PM",
+        "idd_root": "+5",
+        "idd_suffixes": "08",
+        "idd_root_idd_suffixes": "+508"
+    },
+    {
+        "name": "Pakistan",
+        "official": "Islamic Republic of Pakistan",
+        "cca2": "PK",
+        "idd_root": "+9",
+        "idd_suffixes": "2",
+        "idd_root_idd_suffixes": "+92"
+    },
+    {
+        "name": "El Salvador",
+        "official": "Republic of El Salvador",
+        "cca2": "SV",
+        "idd_root": "+5",
+        "idd_suffixes": "03",
+        "idd_root_idd_suffixes": "+503"
+    },
+    {
+        "name": "North Macedonia",
+        "official": "Republic of North Macedonia",
+        "cca2": "MK",
+        "idd_root": "+3",
+        "idd_suffixes": "89",
+        "idd_root_idd_suffixes": "+389"
+    },
+    {
+        "name": "Brunei",
+        "official": "Nation of Brunei, Abode of Peace",
+        "cca2": "BN",
+        "idd_root": "+6",
+        "idd_suffixes": "73",
+        "idd_root_idd_suffixes": "+673"
+    },
+    {
+        "name": "Central African Republic",
+        "official": "Central African Republic",
+        "cca2": "CF",
+        "idd_root": "+2",
+        "idd_suffixes": "36",
+        "idd_root_idd_suffixes": "+236"
+    },
+    {
+        "name": "Uganda",
+        "official": "Republic of Uganda",
+        "cca2": "UG",
+        "idd_root": "+2",
+        "idd_suffixes": "56",
+        "idd_root_idd_suffixes": "+256"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "official": "Territory of the Wallis and Futuna Islands",
+        "cca2": "WF",
+        "idd_root": "+6",
+        "idd_suffixes": "81",
+        "idd_root_idd_suffixes": "+681"
+    },
+    {
+        "name": "Germany",
+        "official": "Federal Republic of Germany",
+        "cca2": "DE",
+        "idd_root": "+4",
+        "idd_suffixes": "9",
+        "idd_root_idd_suffixes": "+49"
+    },
+    {
+        "name": "Taiwan",
+        "official": "Republic of China (Taiwan)",
+        "cca2": "TW",
+        "idd_root": "+8",
+        "idd_suffixes": "86",
+        "idd_root_idd_suffixes": "+886"
+    },
+    {
+        "name": "United Arab Emirates",
+        "official": "United Arab Emirates",
+        "cca2": "AE",
+        "idd_root": "+9",
+        "idd_suffixes": "71",
+        "idd_root_idd_suffixes": "+971"
+    },
+    {
+        "name": "Namibia",
+        "official": "Republic of Namibia",
+        "cca2": "NA",
+        "idd_root": "+2",
+        "idd_suffixes": "64",
+        "idd_root_idd_suffixes": "+264"
+    },
+    {
+        "name": "Monaco",
+        "official": "Principality of Monaco",
+        "cca2": "MC",
+        "idd_root": "+3",
+        "idd_suffixes": "77",
+        "idd_root_idd_suffixes": "+377"
+    },
+    {
+        "name": "Malawi",
+        "official": "Republic of Malawi",
+        "cca2": "MW",
+        "idd_root": "+2",
+        "idd_suffixes": "65",
+        "idd_root_idd_suffixes": "+265"
+    },
+    {
+        "name": "Azerbaijan",
+        "official": "Republic of Azerbaijan",
+        "cca2": "AZ",
+        "idd_root": "+9",
+        "idd_suffixes": "94",
+        "idd_root_idd_suffixes": "+994"
+    },
+    {
+        "name": "Mexico",
+        "official": "United Mexican States",
+        "cca2": "MX",
+        "idd_root": "+5",
+        "idd_suffixes": "2",
+        "idd_root_idd_suffixes": "+52"
+    },
+    {
+        "name": "Iraq",
+        "official": "Republic of Iraq",
+        "cca2": "IQ",
+        "idd_root": "+9",
+        "idd_suffixes": "64",
+        "idd_root_idd_suffixes": "+964"
+    },
+    {
+        "name": "Cambodia",
+        "official": "Kingdom of Cambodia",
+        "cca2": "KH",
+        "idd_root": "+8",
+        "idd_suffixes": "55",
+        "idd_root_idd_suffixes": "+855"
+    },
+    {
+        "name": "Tuvalu",
+        "official": "Tuvalu",
+        "cca2": "TV",
+        "idd_root": "+6",
+        "idd_suffixes": "88",
+        "idd_root_idd_suffixes": "+688"
+    },
+    {
+        "name": "Cook Islands",
+        "official": "Cook Islands",
+        "cca2": "CK",
+        "idd_root": "+6",
+        "idd_suffixes": "82",
+        "idd_root_idd_suffixes": "+682"
+    },
+    {
+        "name": "Haiti",
+        "official": "Republic of Haiti",
+        "cca2": "HT",
+        "idd_root": "+5",
+        "idd_suffixes": "09",
+        "idd_root_idd_suffixes": "+509"
+    },
+    {
+        "name": "Belize",
+        "official": "Belize",
+        "cca2": "BZ",
+        "idd_root": "+5",
+        "idd_suffixes": "01",
+        "idd_root_idd_suffixes": "+501"
+    },
+    {
+        "name": "French Guiana",
+        "official": "Guiana",
+        "cca2": "GF",
+        "idd_root": "+5",
+        "idd_suffixes": "94",
+        "idd_root_idd_suffixes": "+594"
+    },
+    {
+        "name": "DR Congo",
+        "official": "Democratic Republic of the Congo",
+        "cca2": "CD",
+        "idd_root": "+2",
+        "idd_suffixes": "43",
+        "idd_root_idd_suffixes": "+243"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "official": "Republic of Equatorial Guinea",
+        "cca2": "GQ",
+        "idd_root": "+2",
+        "idd_suffixes": "40",
+        "idd_root_idd_suffixes": "+240"
+    },
+    {
+        "name": "Mauritius",
+        "official": "Republic of Mauritius",
+        "cca2": "MU",
+        "idd_root": "+2",
+        "idd_suffixes": "30",
+        "idd_root_idd_suffixes": "+230"
+    },
+    {
+        "name": "Austria",
+        "official": "Republic of Austria",
+        "cca2": "AT",
+        "idd_root": "+4",
+        "idd_suffixes": "3",
+        "idd_root_idd_suffixes": "+43"
+    },
+    {
+        "name": "Spain",
+        "official": "Kingdom of Spain",
+        "cca2": "ES",
+        "idd_root": "+3",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+34"
+    },
+    {
+        "name": "Russia",
+        "official": "Russian Federation",
+        "cca2": "RU",
+        "idd_root": "+7",
+        "idd_suffixes": "3",
+        "idd_root_idd_suffixes": "+734589"
+    },
+    {
+        "name": "Zimbabwe",
+        "official": "Republic of Zimbabwe",
+        "cca2": "ZW",
+        "idd_root": "+2",
+        "idd_suffixes": "63",
+        "idd_root_idd_suffixes": "+263"
+    },
+    {
+        "name": "Singapore",
+        "official": "Republic of Singapore",
+        "cca2": "SG",
+        "idd_root": "+6",
+        "idd_suffixes": "5",
+        "idd_root_idd_suffixes": "+65"
+    },
+    {
+        "name": "Czechia",
+        "official": "Czech Republic",
+        "cca2": "CZ",
+        "idd_root": "+4",
+        "idd_suffixes": "20",
+        "idd_root_idd_suffixes": "+420"
+    },
+    {
+        "name": "Faroe Islands",
+        "official": "Faroe Islands",
+        "cca2": "FO",
+        "idd_root": "+2",
+        "idd_suffixes": "98",
+        "idd_root_idd_suffixes": "+298"
+    },
+    {
+        "name": "Oman",
+        "official": "Sultanate of Oman",
+        "cca2": "OM",
+        "idd_root": "+9",
+        "idd_suffixes": "68",
+        "idd_root_idd_suffixes": "+968"
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "official": "Territory of the French Southern and Antarctic Lands",
+        "cca2": "TF",
+        "idd_root": "+2",
+        "idd_suffixes": "62",
+        "idd_root_idd_suffixes": "+262"
+    },
+    {
+        "name": "Burundi",
+        "official": "Republic of Burundi",
+        "cca2": "BI",
+        "idd_root": "+2",
+        "idd_suffixes": "57",
+        "idd_root_idd_suffixes": "+257"
+    },
+    {
+        "name": "Western Sahara",
+        "official": "Sahrawi Arab Democratic Republic",
+        "cca2": "EH",
+        "idd_root": "+2",
+        "idd_suffixes": "125288",
+        "idd_root_idd_suffixes": "+2125288125289"
+    },
+    {
+        "name": "Mayotte",
+        "official": "Department of Mayotte",
+        "cca2": "YT",
+        "idd_root": "+2",
+        "idd_suffixes": "62",
+        "idd_root_idd_suffixes": "+262"
+    },
+    {
+        "name": "Puerto Rico",
+        "official": "Commonwealth of Puerto Rico",
+        "cca2": "PR",
+        "idd_root": "+1",
+        "idd_suffixes": "787",
+        "idd_root_idd_suffixes": "+1787939"
+    },
+    {
+        "name": "San Marino",
+        "official": "Republic of San Marino",
+        "cca2": "SM",
+        "idd_root": "+3",
+        "idd_suffixes": "78",
+        "idd_root_idd_suffixes": "+378"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "official": "Turks and Caicos Islands",
+        "cca2": "TC",
+        "idd_root": "+1",
+        "idd_suffixes": "649",
+        "idd_root_idd_suffixes": "+1649"
+    },
+    {
+        "name": "Malta",
+        "official": "Republic of Malta",
+        "cca2": "MT",
+        "idd_root": "+3",
+        "idd_suffixes": "56",
+        "idd_root_idd_suffixes": "+356"
+    },
+    {
+        "name": "Nauru",
+        "official": "Republic of Nauru",
+        "cca2": "NR",
+        "idd_root": "+6",
+        "idd_suffixes": "74",
+        "idd_root_idd_suffixes": "+674"
+    },
+    {
+        "name": "Saint Martin",
+        "official": "Saint Martin",
+        "cca2": "MF",
+        "idd_root": "+5",
+        "idd_suffixes": "90",
+        "idd_root_idd_suffixes": "+590"
+    },
+    {
+        "name": "French Polynesia",
+        "official": "French Polynesia",
+        "cca2": "PF",
+        "idd_root": "+6",
+        "idd_suffixes": "89",
+        "idd_root_idd_suffixes": "+689"
+    },
+    {
+        "name": "New Zealand",
+        "official": "New Zealand",
+        "cca2": "NZ",
+        "idd_root": "+6",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+64"
+    },
+    {
+        "name": "Serbia",
+        "official": "Republic of Serbia",
+        "cca2": "RS",
+        "idd_root": "+3",
+        "idd_suffixes": "81",
+        "idd_root_idd_suffixes": "+381"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "official": "Republic of Trinidad and Tobago",
+        "cca2": "TT",
+        "idd_root": "+1",
+        "idd_suffixes": "868",
+        "idd_root_idd_suffixes": "+1868"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "official": "Collectivity of Saint Barthélemy",
+        "cca2": "BL",
+        "idd_root": "+5",
+        "idd_suffixes": "90",
+        "idd_root_idd_suffixes": "+590"
+    },
+    {
+        "name": "Pitcairn Islands",
+        "official": "Pitcairn Group of Islands",
+        "cca2": "PN",
+        "idd_root": "+6",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+64"
+    },
+    {
+        "name": "Norfolk Island",
+        "official": "Territory of Norfolk Island",
+        "cca2": "NF",
+        "idd_root": "+6",
+        "idd_suffixes": "72",
+        "idd_root_idd_suffixes": "+672"
+    },
+    {
+        "name": "Barbados",
+        "official": "Barbados",
+        "cca2": "BB",
+        "idd_root": "+1",
+        "idd_suffixes": "246",
+        "idd_root_idd_suffixes": "+1246"
+    },
+    {
+        "name": "South Korea",
+        "official": "Republic of Korea",
+        "cca2": "KR",
+        "idd_root": "+8",
+        "idd_suffixes": "2",
+        "idd_root_idd_suffixes": "+82"
+    },
+    {
+        "name": "Bangladesh",
+        "official": "People's Republic of Bangladesh",
+        "cca2": "BD",
+        "idd_root": "+8",
+        "idd_suffixes": "80",
+        "idd_root_idd_suffixes": "+880"
+    },
+    {
+        "name": "Dominican Republic",
+        "official": "Dominican Republic",
+        "cca2": "DO",
+        "idd_root": "+1",
+        "idd_suffixes": "809",
+        "idd_root_idd_suffixes": "+1809829849"
+    },
+    {
+        "name": "Turkey",
+        "official": "Republic of Turkey",
+        "cca2": "TR",
+        "idd_root": "+9",
+        "idd_suffixes": "0",
+        "idd_root_idd_suffixes": "+90"
+    },
+    {
+        "name": "Indonesia",
+        "official": "Republic of Indonesia",
+        "cca2": "ID",
+        "idd_root": "+6",
+        "idd_suffixes": "2",
+        "idd_root_idd_suffixes": "+62"
+    },
+    {
+        "name": "Liberia",
+        "official": "Republic of Liberia",
+        "cca2": "LR",
+        "idd_root": "+2",
+        "idd_suffixes": "31",
+        "idd_root_idd_suffixes": "+231"
+    },
+    {
+        "name": "Guernsey",
+        "official": "Bailiwick of Guernsey",
+        "cca2": "GG",
+        "idd_root": "+4",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+44"
+    },
+    {
+        "name": "Suriname",
+        "official": "Republic of Suriname",
+        "cca2": "SR",
+        "idd_root": "+5",
+        "idd_suffixes": "97",
+        "idd_root_idd_suffixes": "+597"
+    },
+    {
+        "name": "Albania",
+        "official": "Republic of Albania",
+        "cca2": "AL",
+        "idd_root": "+3",
+        "idd_suffixes": "55",
+        "idd_root_idd_suffixes": "+355"
+    },
+    {
+        "name": "Dominica",
+        "official": "Commonwealth of Dominica",
+        "cca2": "DM",
+        "idd_root": "+1",
+        "idd_suffixes": "767",
+        "idd_root_idd_suffixes": "+1767"
+    },
+    {
+        "name": "Thailand",
+        "official": "Kingdom of Thailand",
+        "cca2": "TH",
+        "idd_root": "+6",
+        "idd_suffixes": "6",
+        "idd_root_idd_suffixes": "+66"
+    },
+    {
+        "name": "United Kingdom",
+        "official": "United Kingdom of Great Britain and Northern Ireland",
+        "cca2": "GB",
+        "idd_root": "+4",
+        "idd_suffixes": "4",
+        "idd_root_idd_suffixes": "+44"
+    },
+    {
+        "name": "New Caledonia",
+        "official": "New Caledonia",
+        "cca2": "NC",
+        "idd_root": "+6",
+        "idd_suffixes": "87",
+        "idd_root_idd_suffixes": "+687"
+    },
+    {
+        "name": "Romania",
+        "official": "Romania",
+        "cca2": "RO",
+        "idd_root": "+4",
+        "idd_suffixes": "0",
+        "idd_root_idd_suffixes": "+40"
+    },
+    {
+        "name": "Gibraltar",
+        "official": "Gibraltar",
+        "cca2": "GI",
+        "idd_root": "+3",
+        "idd_suffixes": "50",
+        "idd_root_idd_suffixes": "+350"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "official": "Svalbard og Jan Mayen",
+        "cca2": "SJ",
+        "idd_root": "+4",
+        "idd_suffixes": "779",
+        "idd_root_idd_suffixes": "+4779"
+    },
+    {
+        "name": "Angola",
+        "official": "Republic of Angola",
+        "cca2": "AO",
+        "idd_root": "+2",
+        "idd_suffixes": "44",
+        "idd_root_idd_suffixes": "+244"
+    },
+    {
+        "name": "Bahamas",
+        "official": "Commonwealth of the Bahamas",
+        "cca2": "BS",
+        "idd_root": "+1",
+        "idd_suffixes": "242",
+        "idd_root_idd_suffixes": "+1242"
+    },
+    {
+        "name": "Eswatini",
+        "official": "Kingdom of Eswatini",
+        "cca2": "SZ",
+        "idd_root": "+2",
+        "idd_suffixes": "68",
+        "idd_root_idd_suffixes": "+268"
+    },
+    {
+        "name": "Brazil",
+        "official": "Federative Republic of Brazil",
+        "cca2": "BR",
+        "idd_root": "+5",
+        "idd_suffixes": "5",
+        "idd_root_idd_suffixes": "+55"
+    },
+    {
+        "name": "Lithuania",
+        "official": "Republic of Lithuania",
+        "cca2": "LT",
+        "idd_root": "+3",
+        "idd_suffixes": "70",
+        "idd_root_idd_suffixes": "+370"
+    },
+    {
+        "name": "Saint Lucia",
+        "official": "Saint Lucia",
+        "cca2": "LC",
+        "idd_root": "+1",
+        "idd_suffixes": "758",
+        "idd_root_idd_suffixes": "+1758"
+    }
+]
